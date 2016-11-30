@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F6FD3975-80D8-4DA8-6608-DF1CF8780418}") = "maingamegithub", "Assembly-CSharp-firstpass.csproj", "{F9561664-79C7-4BCD-2642-933633B2EEC7}"
+EndProject
+Project("{F6FD3975-80D8-4DA8-6608-DF1CF8780418}") = "maingamegithub", "Assembly-CSharp.csproj", "{58C55EE4-7D43-A14A-13B6-2388F563D361}"
+EndProject
+Project("{F6FD3975-80D8-4DA8-6608-DF1CF8780418}") = "maingamegithub", "Assembly-CSharp-Editor.csproj", "{930E42A2-A540-2DE9-4C45-2CBA047CB93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9561664-79C7-4BCD-2642-933633B2EEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9561664-79C7-4BCD-2642-933633B2EEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9561664-79C7-4BCD-2642-933633B2EEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9561664-79C7-4BCD-2642-933633B2EEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C55EE4-7D43-A14A-13B6-2388F563D361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C55EE4-7D43-A14A-13B6-2388F563D361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C55EE4-7D43-A14A-13B6-2388F563D361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C55EE4-7D43-A14A-13B6-2388F563D361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930E42A2-A540-2DE9-4C45-2CBA047CB93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930E42A2-A540-2DE9-4C45-2CBA047CB93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930E42A2-A540-2DE9-4C45-2CBA047CB93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930E42A2-A540-2DE9-4C45-2CBA047CB93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
