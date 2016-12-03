@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/After fire scene.unity
+- path: Assets/Inside character house .unity
   isLoaded: 1
   isActive: 1
